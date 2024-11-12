@@ -41,12 +41,12 @@ import { TypeAnimation } from 'react-type-animation';
         Odit sint pariatur ut possimus maxime excepturi sed! Doloremque
          illo impedit facere totam soluta ex laudantium deleniti, incidunt, ipsum rem vel delectus!</p>
         <div>
-            <button className="px-6 py-3 mb-2 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-black"
+            <button className="px-6 py-3 font-semibold mb-2 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-black"
             >Hire Me
             </button>
             
             <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-transparent hover:bg-slate-800 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white border border-white">
-              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full p-2"
+              <span className="block font-medium bg-[#121212] hover:bg-slate-800 rounded-full p-2"
               >  Download CV
               </span>           
             </button>
